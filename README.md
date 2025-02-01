@@ -1,6 +1,6 @@
 === C++ ===
 
-This my documentation of my learning. You can follo it by looking at the documentation and following the files i'he sorter below:
+This my documentation of my learning. You can follow it by looking at the documentation and following the files i'he sorter below:
 
 1. printing.cpp
 2. variabel.cpp
