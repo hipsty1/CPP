@@ -18,5 +18,6 @@ This my documentation of my learning. You can follow it by looking at the docume
 14. doWhile.cpp
 15. forLoop.cpp
 16. breakContinue.cpp
+17. fungsi.cpp
 
 = THANKS TO KELAS TERBUKA (youtube channel) =
