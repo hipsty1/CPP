@@ -22,5 +22,8 @@ This my documentation of my learning. You can follow it by looking at the docume
 18. return.cpp
 19. void.cpp
 20. prototipeFungsi.cpp
+21. scope.cpp
+22. defaultArgument.cpp
+23. overloading.cpp
 
 = THANKS TO KELAS TERBUKA (youtube channel) =
