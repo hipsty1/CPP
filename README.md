@@ -21,5 +21,6 @@ This my documentation of my learning. You can follow it by looking at the docume
 17. fungsi.cpp
 18. return.cpp
 19. void.cpp
+20. prototipeFungsi.cpp
 
 = THANKS TO KELAS TERBUKA (youtube channel) =
