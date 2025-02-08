@@ -26,5 +26,6 @@ This my documentation of my learning. You can follow it by looking at the docume
 22. defaultArgument.cpp
 23. overloading.cpp
 24. rekursif.cpp
+25. pointer.cpp
 
 = THANKS TO KELAS TERBUKA (youtube channel) =
