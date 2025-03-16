@@ -28,5 +28,7 @@ This my documentation of my learning. You can follow it by looking at the docume
 24. rekursif.cpp
 25. pointer.cpp
 26. reference.cpp
+27. array.cpp
+28. libraryArray.cpp
 
 = THANKS TO KELAS TERBUKA (youtube channel) =
