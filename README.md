@@ -30,5 +30,6 @@ This my documentation of my learning. You can follow it by looking at the docume
 26. reference.cpp
 27. array.cpp
 28. libraryArray.cpp
+29. loopingArray.cpp
 
 = THANKS TO KELAS TERBUKA (youtube channel) =
