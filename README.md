@@ -31,5 +31,7 @@ This my documentation of my learning. You can follow it by looking at the docume
 27. array.cpp
 28. libraryArray.cpp
 29. loopingArray.cpp
+30. arrayMultidimensi.cpp
+31. libraryArrayMultidimensi.cpp
 
 = THANKS TO KELAS TERBUKA (youtube channel) =
