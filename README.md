@@ -33,5 +33,6 @@ This my documentation of my learning. You can follow it by looking at the docume
 29. loopingArray.cpp
 30. arrayMultidimensi.cpp
 31. libraryArrayMultidimensi.cpp
+32. shortArray.cpp
 
 = THANKS TO KELAS TERBUKA (youtube channel) =
